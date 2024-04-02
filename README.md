@@ -1,9 +1,9 @@
 # Multi-user chat-System
 The Multi-User Chat System is a simple, console-based chat application that enables multiple users to communicate in real-time. It supports basic user authentication, private messaging, and has a framework in place for future expansion to include features like group chats.
 ### Features
-  User Authentication: Simple username and password login to access the chat.
-  Real-Time Communication: Users can send and receive messages instantly.
-  Private Messaging: Users can send private messages to each other using a simple command.
+  1. User Authentication: Simple username and password login to access the chat.
+  2. Real-Time Communication: Users can send and receive messages instantly.
+  3. Private Messaging: Users can send private messages to each other using a simple command.
 ### Installation
 This project requires Python 3.6 or later. No additional libraries are needed beyond the Python Standard Library.
 
@@ -13,8 +13,10 @@ This project requires Python 3.6 or later. No additional libraries are needed be
    ```
 2. Start the Server
 Open a terminal and run:
-   ``` python server.py ```
-3. Connect with a Client
+   ```
+   python server.py
+   ```
+4. Connect with a Client
 Open a new terminal for each client and run:
    ```
    python client.py

@@ -13,9 +13,7 @@ This project requires Python 3.6 or later. No additional libraries are needed be
    '''
 3. Start the Server
 Open a terminal and run:
-   '''
-   python server.py
-   '''
+   ``` python server.py ```
 5. Connect with a Client
 Open a new terminal for each client and run:
    '''

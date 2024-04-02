@@ -8,17 +8,17 @@ Private Messaging: Users can send private messages to each other using a simple 
 This project requires Python 3.6 or later. No additional libraries are needed beyond the Python Standard Library.
 
 1. Clone the Repository
-   '''
+   ```
    https://github.com/Gitanjali08/Multi-user-chat-System
-   '''
+   ```
 3. Start the Server
 Open a terminal and run:
    ``` python server.py ```
 5. Connect with a Client
 Open a new terminal for each client and run:
-   '''
+   ```
    python client.py
-   '''
+   ```
 
 ### Usage
 After starting the client script, follow the on-screen instructions to log in or send messages.
